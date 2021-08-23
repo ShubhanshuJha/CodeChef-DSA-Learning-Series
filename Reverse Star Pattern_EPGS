@@ -1,0 +1,26 @@
+/*--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Tenth probelem in Easy Problems to Get Started (EPGS) sub-topic in CodeChef DSA Learning Series.
+Please go to the problem by clicking the link given below:
+https://www.codechef.com/CCSTART2/problems/REVSTRPT
+My solution to that problem using C++ Programming.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+
+#include <iostream>
+using namespace std;
+#define endl "\n"
+
+int main() {
+	int N;
+	cin >> N;
+	for(int i=1; i<=N; i++){
+        for(int j=N-i; j>=1; j--){
+            cout << " ";
+        }
+        for(int k=1; k<=i; k++){
+            cout << "*";
+        }
+        if(i != N)
+            cout << endl;
+    }
+	return 0;
+}
