@@ -27,6 +27,6 @@ https://www.codechef.com/LEARNDSA/?itm_medium=navmenu&itm_campaign=learndsa
   <dt><em>DnC_BS</em></dt>
   <dd>[Divide and Conquer + Binary Search](https://www.codechef.com/LRNDSA04)</dd>
 
-  <dt><em>CA_BWU</em></dt>
-  <dd>[Complexity Analysis + Basics Warm Up](https://www.codechef.com/LRNDSA01)</dd>
+  <dt><em>Math_in_CP</em></dt>
+  <dd>[Mathematics in Competitive Programming](https://www.codechef.com/LRNDSA05)</dd>
 </dl>
