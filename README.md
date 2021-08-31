@@ -10,22 +10,22 @@ https://www.codechef.com/LEARNDSA/?itm_medium=navmenu&itm_campaign=learndsa
 ----------------------------------------------------------------------------------
 > These all abbreviations represents a topic name present in the ****CodeChef Learning Series****
 
-* EPGS
+<dl>
+  <dt><em>EPGS</em></dt>
+  <dd>[Easy Problems to Get Started](https://www.codechef.com/CCSTART2)</dd>
 
-...[Easy Problems to Get Started](https://www.codechef.com/CCSTART2)
+  <dt><em>CA_BWU</em></dt>
+  <dd>[Complexity Analysis + Basics Warm Up](https://www.codechef.com/LRNDSA01)</dd>
+  
+  <dt><em>LDS</em></dt>
+  <dd>[Linear Data Structures](https://www.codechef.com/LRNDSA02)</dd>
 
-* CA_BWU
+  <dt><em>STL</em></dt>
+  <dd>[Standard Template Library (STL)](https://www.codechef.com/LRNDSA03)</dd>
+  
+  <dt><em>DnC_BS</em></dt>
+  <dd>[Divide and Conquer + Binary Search](https://www.codechef.com/LRNDSA04)</dd>
 
-...[Complexity Analysis + Basics Warm Up](https://www.codechef.com/LRNDSA01)
-
-* LDS
-
-...[Linear Data Structures](https://www.codechef.com/LRNDSA02)
-
-* STL
-
-...[Standard Template Library (STL)](https://www.codechef.com/LRNDSA03)
-
-* DnC_BS
-
-...[Divide and Conquer + Binary Search](https://www.codechef.com/LRNDSA04)
+  <dt><em>CA_BWU</em></dt>
+  <dd>[Complexity Analysis + Basics Warm Up](https://www.codechef.com/LRNDSA01)</dd>
+</dl>
