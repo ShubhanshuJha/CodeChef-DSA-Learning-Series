@@ -12,8 +12,7 @@ https://www.codechef.com/LEARNDSA/?itm_medium=navmenu&itm_campaign=learndsa
 
 
 <dl>
-  <dt></dt>
-  <dd></dd>
+  </br>
   
   <dt><em>EPGS</em></dt>
   <dd><a href="https://www.codechef.com/CCSTART2">Easy Problems to Get Started</a></dd>
