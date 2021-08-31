@@ -12,6 +12,9 @@ https://www.codechef.com/LEARNDSA/?itm_medium=navmenu&itm_campaign=learndsa
 
 
 <dl>
+  <dt></dt>
+  <dd></dd>
+  
   <dt><em>EPGS</em></dt>
   <dd><a href="https://www.codechef.com/CCSTART2">Easy Problems to Get Started</a></dd>
 
@@ -29,4 +32,8 @@ https://www.codechef.com/LEARNDSA/?itm_medium=navmenu&itm_campaign=learndsa
 
   <dt><em>Math_in_CP</em></dt>
   <dd><a href="https://www.codechef.com/LRNDSA05">Mathematics in Competitive Programming</a></dd>
+  
+  <dt><em>BOT</em></dt>
+  <dd><a href="https://www.codechef.com/LRNDSA06">Basic optimisation techniques</a></dd>
+  
 </dl>
