@@ -12,19 +12,19 @@ https://www.codechef.com/LEARNDSA/?itm_medium=navmenu&itm_campaign=learndsa
 
 
 <dl>
-  <dt><strong>EPGS</strong></dt>
+  <dt><em>EPGS</em></dt>
   <dd>[Easy Problems to Get Started](https://www.codechef.com/CCSTART2)</dd>
 
-  <dt><strong>CA_BWU</strong></dt>
+  <dt><em>CA_BWU</em></dt>
   <dd>[Complexity Analysis + Basics Warm Up](https://www.codechef.com/LRNDSA01)</dd>
   
-  <dt><strong>LDS</strong></dt>
+  <dt><em>LDS</em></dt>
   <dd>[Linear Data Structures](https://www.codechef.com/LRNDSA02)</dd>
 
-  <dt><strong>STL</strong></dt>
+  <dt><em>STL</em></dt>
   <dd>[Standard Template Library (STL)](https://www.codechef.com/LRNDSA03)</dd>
   
-  <dt><strong>DnC_BS</strong></dt>
+  <dt><em>DnC_BS</em></dt>
   <dd>[Divide and Conquer + Binary Search](https://www.codechef.com/LRNDSA04)</dd>
 
   <dt><em>CA_BWU</em></dt>
