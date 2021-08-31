@@ -13,20 +13,20 @@ https://www.codechef.com/LEARNDSA/?itm_medium=navmenu&itm_campaign=learndsa
 
 <dl>
   <dt><em>EPGS</em></dt>
-  <dd>[Easy Problems to Get Started](https://www.codechef.com/CCSTART2)</dd>
+  <dd><a href="https://www.codechef.com/CCSTART2">Easy Problems to Get Started</a></dd>
 
   <dt><em>CA_BWU</em></dt>
-  <dd>[Complexity Analysis + Basics Warm Up](https://www.codechef.com/LRNDSA01)</dd>
+  <dd><a href="https://www.codechef.com/LRNDSA01">Complexity Analysis + Basics Warm Up</a></dd>
   
   <dt><em>LDS</em></dt>
-  <dd>[Linear Data Structures](https://www.codechef.com/LRNDSA02)</dd>
+    <dd><a href="https://www.codechef.com/LRNDSA02">Linear Data Structures</a></dd>
 
   <dt><em>STL</em></dt>
-  <dd>[Standard Template Library (STL)](https://www.codechef.com/LRNDSA03)</dd>
+  <dd><a href="https://www.codechef.com/LRNDSA03">Standard Template Library (STL)</a></dd>
   
   <dt><em>DnC_BS</em></dt>
-  <dd>[Divide and Conquer + Binary Search](https://www.codechef.com/LRNDSA04)</dd>
+  <dd><a href="https://www.codechef.com/LRNDSA04">Divide and Conquer + Binary Search</a></dd>
 
   <dt><em>Math_in_CP</em></dt>
-  <dd>[Mathematics in Competitive Programming](https://www.codechef.com/LRNDSA05)</dd>
+  <dd><a href="https://www.codechef.com/LRNDSA05">Mathematics in Competitive Programming</a></dd>
 </dl>
