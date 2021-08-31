@@ -1,14 +1,15 @@
 ## CodeChef-DSA-Learning-Series
 This repository has the solution uploaded by me on different sub-topics in [**DSA Learning Series**](https://www.codechef.com/LEARNDSA/?itm_medium=navmenu&itm_campaign=learndsa), a segment under CodeChef Practice & Learn segment.
-<br>
+
 ##### My CodeChef Profile
 [Shubhanshu_Jha](https://www.codechef.com/users/shubhanshu_jha)
+
 
 > For reference of sub-topics that is under this DSA Learning Series, do visit the link given below.
 ```
 https://www.codechef.com/LEARNDSA/?itm_medium=navmenu&itm_campaign=learndsa
 ```
-<br>
+
 #### This repository contains some abbreviated tags at the end of each filename
 ----------------------------------------------------------------------------------
 > These all abbreviations represents a topic name present in the ****CodeChef Learning Series****
