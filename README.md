@@ -11,16 +11,21 @@ https://www.codechef.com/LEARNDSA/?itm_medium=navmenu&itm_campaign=learndsa
 > These all abbreviations represents a topic name present in the ****CodeChef Learning Series****
 
 * EPGS
-[Easy Problems to Get Started](https://www.codechef.com/CCSTART2)
+
+...[Easy Problems to Get Started](https://www.codechef.com/CCSTART2)
 
 * CA_BWU
-[Complexity Analysis + Basics Warm Up](https://www.codechef.com/LRNDSA01)
+
+...[Complexity Analysis + Basics Warm Up](https://www.codechef.com/LRNDSA01)
 
 * LDS
-[Linear Data Structures](https://www.codechef.com/LRNDSA02)
+
+...[Linear Data Structures](https://www.codechef.com/LRNDSA02)
 
 * STL
-[Standard Template Library (STL)](https://www.codechef.com/LRNDSA03)
+
+...[Standard Template Library (STL)](https://www.codechef.com/LRNDSA03)
 
 * DnC_BS
-[Divide and Conquer + Binary Search](https://www.codechef.com/LRNDSA04)
+
+...[Divide and Conquer + Binary Search](https://www.codechef.com/LRNDSA04)
