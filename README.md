@@ -1,5 +1,5 @@
 ## CodeChef-DSA-Learning-Series
-This repository has the solution uploaded by me on different sub-topics in [**DSA Learning Series**](https://www.codechef.com/LEARNDSA/?itm_medium=navmenu&itm_campaign=learndsa), a segment under CodeChef Practice & Learn segment.
+This repository has the solution uploaded by me on different sub-topics in [**DSA Learning Series**](https://www.codechef.com/LEARNDSA/?itm_medium=navmenu&itm_campaign=learndsa), a segment under [CodeChef](https://www.codechef.com) Practice & Learn segment.
 
 ##### My CodeChef Profile
 [Shubhanshu_Jha](https://www.codechef.com/users/shubhanshu_jha)
