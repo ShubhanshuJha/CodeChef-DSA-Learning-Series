@@ -6,7 +6,7 @@ This repository has the solution uploaded by me on different sub-topics in [**DS
 
 ***
 ### Author:
-**Shubhanshu Jha*
+**Shubhanshu Jha**
 ***
 
 > For reference of sub-topics that is under this DSA Learning Series, do visit the link given below.
