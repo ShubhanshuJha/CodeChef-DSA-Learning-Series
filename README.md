@@ -5,7 +5,8 @@ This repository has the solution uploaded by me on different sub-topics in [**DS
 [Shubhanshu_Jha](https://www.codechef.com/users/shubhanshu_jha)
 
 ***
-### Author: Shubhanshu Jha
+### Author:
+**Shubhanshu Jha*
 ***
 
 > For reference of sub-topics that is under this DSA Learning Series, do visit the link given below.
